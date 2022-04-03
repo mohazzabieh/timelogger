@@ -1,0 +1,18 @@
+.grid {
+  border-collapse: collapse;
+}
+
+.grid thead tr {
+  background-color: #777;
+  color: #fff;
+}
+
+.grid tbody tr:nth-child(2n + 1) {
+  background-color: #eaeaea;
+}
+
+.grid th,
+.grid td {
+  border: 1px solid #ccc;
+  padding: 4px;
+}

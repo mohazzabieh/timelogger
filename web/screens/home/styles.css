@@ -1,0 +1,9 @@
+.addButton {
+  padding: 8px 16px;
+  margin-bottom: 8px;
+  border: 1px solid #4b9913;
+  background: #5bbd16;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}

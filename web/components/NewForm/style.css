@@ -1,0 +1,27 @@
+.newForm {
+  padding: 8px;
+}
+
+.newForm .react-datetime-picker {
+  width: 230px;
+}
+
+.newForm textarea {
+  width: calc(100% - 6px);
+  resize: none;
+  border-radius: 0;
+  border: 1px solid #888;
+  user-select: none;
+  outline: none;
+}
+.newForm tr:last-child {
+  text-align: right;
+}
+
+.newForm .button {
+  border-radius: 0;
+  border: 1px solid #8888;
+  padding: 8px;
+  min-width: 80px;
+  margin-left: 8px;
+}
