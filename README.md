@@ -4,5 +4,8 @@
 After cloning the project, cd into cloned folder and **Run npm install**
 
 ### How to Start
-**npm run start**
+**npm start**
+
+### How to Test
+**npm test**
 
